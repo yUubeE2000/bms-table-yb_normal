@@ -2,7 +2,7 @@
 "name" : "yb通常難易度表",
 "symbol" : "☆",
 "data_url" : "https://script.google.com/macros/s/AKfycbzm9_V21wZCv_vjwAidn1-BTl2bedPwjsch3vL61HIcfz9f5l6nQbEI0rp4LQ890T4/exec"
-"cource" : [
+"course" : [
             "name":["yb段位認定 初段"], "constraint":["grade_mirror", "gauge_lr2", ""], "md5":["20f8bccdf98aedae3fa2d867a933525c", "d787fd082e1c209ecf61c3042fbe473a", "38ad38ace94a4afbc875b8ad9d708ae5", "dd0e52eb8730839cb2d77af23ff0421a"],
             "name":["yb段位認定 二段"], "constraint":["grade_mirror", "gauge_lr2", ""], "md5":["6035dc4923c5c75040b01c6e174e91c6", "0fbe05240c1fd823c7cab697f6992ca8", "068f6c36ae677d4204a71830cac2af50", "aa09f1024ef6442797f7475f9ad18daa"],
             "name":["yb段位認定 三段"], "constraint":["grade_mirror", "gauge_lr2", ""], "md5":["0a4ae5ef162b58ea31e52c3dfe6efb6e", "7ee84a7ee5bd58a7518473b7bd356586", "b52526c03e9d76692ace7bce1248a729", "60cc070b8d49e38d84d2e1c3b5affdf7"],
