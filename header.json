@@ -12,6 +12,6 @@
             "name":["yb段位認定 七段"], "constraint":["grade_mirror", "gauge_lr2", ""], "md5":["44c37cd5906a98b3a64ed9c093b27b85", "d48a9c4bd811543eee450e0f530486d3", "f0f71be0bf92880acfd724b5aa0b85a5", "07b991d935793555f56e43781a5d7789"],
             "name":["yb段位認定 八段"], "constraint":["grade_mirror", "gauge_lr2", ""], "md5":["4cf90838e9a838a4becd786b51c979a9", "3a60d5fccd8652dc6ecdbb7b36c68193", "1fff659589cb9cfb2414933b3589d47a", "e70b8c18644b7f2fca66ba7d32b45179"],
             "name":["yb段位認定 九段"], "constraint":["grade_mirror", "gauge_lr2", ""], "md5":["86f7b6ff50c1b345e0df3109e2fb8aa3", "bf7823bf79a7477839c586e0ebb50cae", "72341b3417b72cdf78488a9e0f22797a", "a9028a4412fa595ebdad943067796277"],
-            "name":["yb段位認定 十段"], "constraint":["grade_mirror", "gauge_lr2", ""], "md5":["ee14dfeb772a436de89924c2247824ee", "d413b6d334955475b6dc6bc9edeb9880", "d14177463f0d1e197a4c65deeecbcda5", "139571e69fb77ba1605a70b865651a68"],
+            "name":["yb段位認定 十段"], "constraint":["grade_mirror", "gauge_lr2", ""], "md5":["ee14dfeb772a436de89924c2247824ee", "d413b6d334955475b6dc6bc9edeb9880", "d14177463f0d1e197a4c65deeecbcda5", "139571e69fb77ba1605a70b865651a68"]
            ]
 }
