@@ -1,7 +1,7 @@
 {
 "name" : "yb通常難易度表",
 "symbol" : "☆",
-"data_url" : "https://script.google.com/macros/s/AKfycbzm9_V21wZCv_vjwAidn1-BTl2bedPwjsch3vL61HIcfz9f5l6nQbEI0rp4LQ890T4/exec",
+"data_url" : "https://script.google.com/macros/s/AKfycbwqcgZuMa3oY3CasPd383AxxqlOJZnK2FFf5wzTEPjIG-mB9I9hjsIX9o-Bq2MqRom00A/exec",
 "level_order" : ["1","2","3","4","5","6","7","8","9","10","11","12"],
 "course":[
 {"name":"yb段位認定 初段","constraint":["grade_mirror","gauge_lr2",""],"md5": ["20f8bccdf98aedae3fa2d867a933525c","d787fd082e1c209ecf61c3042fbe473a","38ad38ace94a4afbc875b8ad9d708ae5","dd0e52eb8730839cb2d77af23ff0421a"]},
